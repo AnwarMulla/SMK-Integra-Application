@@ -1,0 +1,5 @@
+.add-complaint-heading{
+    display: flex;
+    justify-content: space-between;
+    color: #436db8;
+}

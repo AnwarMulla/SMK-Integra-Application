@@ -1,0 +1,28 @@
+.loginItemJustification {
+  text-align: center;
+  box-shadow: 3px 2px 5px 5px gray;
+}
+
+.cardContainer {
+  width: 28%;
+  justify-self: center;
+  padding-top: 5%;
+}
+
+.card-bg-color {
+  background-color: #f0f3f9;
+  height: 100vh;
+}
+
+.integralogo {
+  width: 100px;
+  height: 60px;
+}
+
+.forgotbutton {
+  text-decoration: none;
+  float: right;
+  color: #3d71b5;
+  font-size: 16px;
+  padding: 1% 4% 7%;
+}

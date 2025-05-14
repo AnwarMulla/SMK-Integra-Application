@@ -1,0 +1,35 @@
+.search-view-heading {
+  display: flex;
+  justify-content: space-between;
+  color: #436db8;
+}
+
+.data-Grid-Header-Color{
+  background-color: #436db8 !important;
+  color: white;
+  font-size: larger;
+}
+
+.icons-style {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icons {
+  background: #436db8;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  align-items: center;
+  cursor: pointer;
+  justify-content: center;
+  display: flex;
+}
+
+.actions-buttons {
+  color: #436db8;
+  cursor: pointer;
+  text-align: center;
+  padding-top: 6px;
+}

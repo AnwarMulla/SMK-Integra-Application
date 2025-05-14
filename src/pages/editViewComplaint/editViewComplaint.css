@@ -1,0 +1,9 @@
+.visibility-Icon{
+    display: flex;
+    background-color: #436db8;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
